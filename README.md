@@ -50,9 +50,9 @@ El software desarrollado se encuentra bajo una licencia específica según las b
 
 naviro
 ├── blockchain
-│   ├── chain
-│   ├── explorer
-│   └── verifier
+│   ├── chain
+│   ├── explorer
+│   └── verifier
 └── chatbot
     ├── auth
     ├── broker
