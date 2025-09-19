@@ -40,8 +40,32 @@ El sistema NAVIRO está diseñado para:
 
 ## Licencia y código fuente
 
-Este repositorio **no incluye el código fuente del proyecto NAVIRO**.  
-El software desarrollado se encuentra bajo una licencia específica definida en el proyecto. El código se ha facilitado a los organismos correspondientes y a los beneficiarios autorizados para su evaluación y revisión.  
+Este repositorio **no incluye el código fuente del proyecto NAVIRO**. El código se encuentra en un repositorio privado https://github.com/councilbox-naviro/naviro y ha facilitado a los organismos correspondientes y a los beneficiarios autorizados para su evaluación y revisión en formato zip. En el apartado siguiente se muestra la estructura de ese repositorio.  
+El software desarrollado se encuentra bajo una licencia específica según las bases de la convocatoria del proyecto. 
+
+
+---
+
+## Estructura del repositorio
+
+naviro
+├── blockchain
+│   ├── chain
+│   ├── explorer
+│   └── verifier
+└── chatbot
+    ├── auth
+    ├── broker
+    ├── db
+    ├── feedback-api
+    ├── gateway
+    ├── gradiant
+    ├── llm-server
+    ├── message-classifier
+    ├── rasa
+    ├── storer
+    ├── transcriber
+    └── ui
 
 ---
 
@@ -50,7 +74,7 @@ El software desarrollado se encuentra bajo una licencia específica definida en 
 Para más información sobre el proyecto NAVIRO:  
 
 - Entidad responsable: **Councilbox Technology**  
-- Web: [https://www.councilbox.com](https://www.councilbox.com](https://www.councilbox.com/notarizacion-con-asistente-virtual-inteligente-con-tecnologias-blockchain-y-pln-naviro/)  
+- Web: [https://www.councilbox.com](https://www.councilbox.com/notarizacion-con-asistente-virtual-inteligente-con-tecnologias-blockchain-y-pln-naviro/)  
 - Correo: [tech@councilbox.com](mailto:tech@councilbox.com)  
 
 ---
