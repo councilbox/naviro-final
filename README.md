@@ -48,6 +48,7 @@ El software desarrollado se encuentra bajo una licencia específica según las b
 
 ## Estructura del repositorio
 
+```
 naviro
 ├── blockchain
 │   ├── chain
@@ -66,8 +67,7 @@ naviro
     ├── storer
     ├── transcriber
     └── ui
-
----
+```
 
 ## Contacto
 
