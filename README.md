@@ -38,37 +38,6 @@ El sistema NAVIRO está diseñado para:
 
 ---
 
-## Licencia y código fuente
-
-Este repositorio **no incluye el código fuente del proyecto NAVIRO**. El código se encuentra en un repositorio privado: https://github.com/councilbox-naviro/naviro cuyo contenido se ha facilitado a los organismos correspondientes y a los beneficiarios autorizados para su evaluación y revisión en formato zip. En el apartado siguiente se muestra la estructura de ese repositorio.  
-
-El software desarrollado se encuentra bajo una licencia específica según las bases de la convocatoria del proyecto. 
-
----
-
-## Estructura del repositorio
-
-```
-naviro
-├── blockchain
-│   ├── chain
-│   ├── explorer
-│   └── verifier
-└── chatbot
-    ├── auth
-    ├── broker
-    ├── db
-    ├── feedback-api
-    ├── gateway
-    ├── gradiant
-    ├── llm-server
-    ├── message-classifier
-    ├── rasa
-    ├── storer
-    ├── transcriber
-    └── ui
-```
-
 ## Contacto
 
 Para más información sobre el proyecto NAVIRO:  
